@@ -2,6 +2,11 @@
   "name": "is-boolean",
   "version": "0.0.0",
   "description": "A TypeScript type guard that validates if the given value is a boolean",
+  "main": "dist/is-boolean.js",
+  "types": "dist/is-boolean.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvilers/is-boolean.git"
@@ -15,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/is-boolean/issues"
   },
-  "homepage": "https://github.com/fvilers/is-boolean#readme"
+  "homepage": "https://github.com/fvilers/is-boolean#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
