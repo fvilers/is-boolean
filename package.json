@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/is-boolean",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript type guard that validates if the given value is a boolean",
   "main": "dist/is-boolean.js",
   "types": "dist/is-boolean.d.ts",
