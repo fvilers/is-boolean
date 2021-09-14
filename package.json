@@ -1,0 +1,19 @@
+{
+  "name": "is-boolean",
+  "version": "0.0.0",
+  "description": "A TypeScript type guard that validates if the given value is a boolean",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/is-boolean.git"
+  },
+  "keywords": [
+    "typescript",
+    "typescript-library"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/is-boolean/issues"
+  },
+  "homepage": "https://github.com/fvilers/is-boolean#readme"
+}
