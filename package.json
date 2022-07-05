@@ -2,6 +2,7 @@
   "name": "@fvilers/is-boolean",
   "version": "1.0.0",
   "description": "A TypeScript type guard that validates if the given value is a boolean",
+  "type": "module",
   "main": "dist/is-boolean.js",
   "types": "dist/is-boolean.d.ts",
   "scripts": {
@@ -23,6 +24,6 @@
   },
   "homepage": "https://github.com/fvilers/is-boolean#readme",
   "devDependencies": {
-    "typescript": "^4.4.3"
+    "typescript": "^4.7.4"
   }
 }

@@ -14,10 +14,14 @@ or
 yarn add @fvilers/is-boolean
 ```
 
+# ECMAScript module
+
+Starting with version 2.0.0, this library will be published as an ECMAScript module.
+
 ## Usage
 
 ```ts
-import isBoolean from "@fvilers/is-boolean";
+import { isBoolean } from "@fvilers/is-boolean";
 
 const variable: any = true;
 
